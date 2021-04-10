@@ -1,8 +1,8 @@
 {
   "name": "hydroxy",
   "displayName": "Hydroxy",
-  "description": "A dark, sleek looking theme with inspired by Monokai theme",
-  "version": "1.0.0",
+  "description": "A dark, sleek looking theme inspired by the Monokai theme",
+  "version": "1.0.1",
   "publisher": "VirejDasani",
   "license": "MIT",
   "repository": {
