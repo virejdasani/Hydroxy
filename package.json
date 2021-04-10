@@ -42,7 +42,7 @@
         "path": "./themes/hydroxy.json"
       },
       {
-        "label": "Hydroxy",
+        "label": "Hydroxy Lighter",
         "uiTheme": "vs-dark",
         "path": "./themes/hydroxy-lighter.json"
       }
