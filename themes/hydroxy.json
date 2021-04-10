@@ -831,7 +831,7 @@
     {
       "scope": "support.type.property-name",
       "settings": {
-        "foreground": "fff5f5",
+        "foreground": "#fff5f5",
         "fontStyle": ""
       }
     },
