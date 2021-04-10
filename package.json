@@ -40,6 +40,11 @@
         "label": "Hydroxy",
         "uiTheme": "vs-dark",
         "path": "./themes/hydroxy.json"
+      },
+      {
+        "label": "Hydroxy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hydroxy-lighter.json"
       }
     ]
   },
