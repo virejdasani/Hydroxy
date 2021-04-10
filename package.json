@@ -1,21 +1,24 @@
 {
   "name": "hydroxy",
   "displayName": "Hydroxy",
-  "description": "A VS Code dark red theme inspired by Bear App colors, GitHub color scheme and Monokai Pro.",
-  "version": "0.3.4",
-  "publisher": "greven",
+  "description": "A dark, sleek looking theme with inspired by Monokai theme",
+  "version": "1.0.0",
+  "publisher": "Virej Dasani",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/greven/hydroxy-vscode-theme"
+    "url": "https://github.com/virejdasani/HydroxyTheme"
   },
   "keywords": [
-    "Theme",
-    "Dark Theme",
-    "Dark Red Theme",
-    "GitHub Theme",
-    "Night Theme",
-    "VS Code Theme"
+    "Hydroxy",
+    "Hydroxy theme",
+    "Monokai",
+    "Dark theme",
+    "Dark Red theme",
+    "GitHub theme",
+    "Reb and black theme",
+    "VS Code Theme",
+    "Pink and black theme"
   ],
   "engines": {
     "vscode": "^1.20.0"
@@ -36,13 +39,11 @@
       {
         "label": "Hydroxy",
         "uiTheme": "vs-dark",
-        "path": "./themes/hydroxy-color-theme.json"
+        "path": "./themes/hydroxy.json"
       }
     ]
   },
   "__metadata": {
-    "id": "0cdb07e7-2267-4532-8a54-bf8aab16afef",
-    "publisherDisplayName": "greven",
-    "publisherId": "4b8ed01e-f0fa-4b78-9fdb-c0aa47b211a0"
+    "publisherDisplayName": "Virej Dasani"
   }
 }
