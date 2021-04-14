@@ -465,14 +465,14 @@
         "entity.other.attribute-name.css"
       ],
       "settings": {
-        "foreground": "#b392f0",
+        "foreground": "#a9dc76",
         "fontStyle": "italic"
       }
     },
     {
       "scope": "entity.other.attribute-name.id.css",
       "settings": {
-        "foreground": "#5ae6b7",
+        "foreground": "#fc9967",
         "fontStyle": "italic"
       }
     },
