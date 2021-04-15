@@ -1,8 +1,8 @@
 {
   "name": "hydroxy",
   "displayName": "Hydroxy",
-  "description": "A dark, sleek looking theme inspired by the Monokai theme",
-  "version": "1.0.2",
+  "description": "A dark, sleek theme with an awesome color scheme!",
+  "version": "1.0.3",
   "publisher": "VirejDasani",
   "license": "MIT",
   "repository": {
@@ -13,6 +13,7 @@
     "Hydroxy",
     "Hydroxy theme",
     "Monokai",
+    "One Dark",
     "Dark theme",
     "Dark Red theme",
     "GitHub theme",
@@ -42,9 +43,9 @@
         "path": "./themes/hydroxy.json"
       },
       {
-        "label": "Hydroxy Lighter",
+        "label": "Hydroxy Alt Colors",
         "uiTheme": "vs-dark",
-        "path": "./themes/hydroxy-lighter.json"
+        "path": "./themes/hydroxy-alt.json"
       }
     ]
   },
