@@ -1,7 +1,9 @@
 'use strict'
 class Sale {
   constructor(price) {
-    ;[this.decoratorsList, this.price] = [[], price]
+    [this.decoratorsList, this.price] = [
+      [], price
+    ]
   }
 
   decorate(decorator) {
@@ -49,9 +51,9 @@ for (let i = 0; i < 10; i++) {
   continue;
 }
 
-if (true) { }
+if (true) {}
 
-while (true) { }
+while (true) {}
 
 switch (2) {
   case 2:
@@ -71,3 +73,5 @@ class EditFishForm extends Component {
     })
   }
 }
+
+var v = "v"
