@@ -30,7 +30,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "icon.png",
+  "icon": "assets/icon.png",
   "galleryBanner": {
     "color": "#191919",
     "theme": "dark"
