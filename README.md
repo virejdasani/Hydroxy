@@ -1,5 +1,10 @@
 # Hydroxy Theme
 
+![Downloads](https://vsmarketplacebadge.apphb.com/downloads/VirejDasani.hydroxy.svg)
+![Rating](https://vsmarketplacebadge.apphb.com/rating-star/VirejDasani.hydroxy.svg)
+![Version](https://vsmarketplacebadge.apphb.com/version/VirejDasani.hydroxy.svg)
+<!-- [Installs](https://vsmarketplacebadge.apphb.com/installs/VirejDasani.hydroxy.svg) -->
+
 ### Download [Hydroxy](https://marketplace.visualstudio.com/items?itemName=VirejDasani.hydroxy)
 
 - Hydroxy is a cool, dark theme for VS Code
